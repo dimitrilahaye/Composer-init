@@ -1,4 +1,7 @@
 .DS_Store
 vendor
 composer.lock
+build
+docs
 #phpunit.xml
+#phpdoc.xml

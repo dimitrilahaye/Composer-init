@@ -1,6 +1,6 @@
 <?php
 
-namespace DodoPhpLab\DodoSampleComposer\Classes;
+namespace DodoPhpLab\DodoSampleComposer;
 
 class MyClass {
 	

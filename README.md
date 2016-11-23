@@ -13,4 +13,11 @@ composer install
 vendor/bin/phpunit tests/MyClassTest
 ```
 
+## Generate nice markdown php-doc
+```
+vendor/bin/phpdoc
+```
+The markdown file will be there ```./docs/README.md```
+Options of ```phpdoc``` command are setted into ```./phpdoc.xml``` file.
+
 ## Go coding!

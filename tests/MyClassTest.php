@@ -1,13 +1,11 @@
 <?php 
 
-use DodoPhpLab\DodoSampleComposer\Classes\MyClass;
+use DodoPhpLab\DodoSampleComposer\MyClass;
 
 define("__DS__", DIRECTORY_SEPARATOR);
 
 
 class MyClassTest extends PHPUnit_Framework_TestCase {
-
-  private $fileIni;
 
   public function setUp() {
     #...
